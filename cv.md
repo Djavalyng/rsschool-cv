@@ -1,3 +1,4 @@
-feat: add basic page layout
-feat: implement search box 
-feat: implement request to youtube API
+fix: implement correct loading data from youtube
+fix: change layout for video items to fix bugs
+fix: relayout header for firefox
+fix: adjust social links for mobile
